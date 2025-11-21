@@ -1,2 +1,4 @@
 # Unidad-3
-Este repositorio es para la tercera unidad
+Jesús Antonio Tadeo Rosas León
+Practicas de la unidad tres del subModulo 1
+3°B Programación 
